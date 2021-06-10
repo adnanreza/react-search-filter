@@ -1,0 +1,2 @@
+export const FILTER_BLOGS = 'FILTER_BLOGS';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
