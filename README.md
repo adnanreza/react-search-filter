@@ -1,6 +1,9 @@
-# React Search Filter using Context API and RegEx
+# React Search Filter using Hooks and RegEx
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68ae10d5-dc55-4568-8a6c-f13e9472aa1c/deploy-status)](https://app.netlify.com/sites/admiring-booth-1a322a/deploys)
+
+### Deployed URL: `https://www.reactsearchfilter.webdev4all.com/`
+### YouTube Video: `https://www.youtube.com/watch?v=2yA2BO9c4c8`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
