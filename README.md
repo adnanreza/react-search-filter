@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Search Filter using Context API and RegEx
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68ae10d5-dc55-4568-8a6c-f13e9472aa1c/deploy-status)](https://app.netlify.com/sites/admiring-booth-1a322a/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
